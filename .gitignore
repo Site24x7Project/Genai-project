@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+newenv/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# Streamlit stuff
+.streamlit/
+
+# VS Code workspace
+.vscode/
