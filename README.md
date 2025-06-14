@@ -14,8 +14,8 @@ A Generative AI-powered resume feedback tool that reads uploaded PDFs and provid
   - ATS friendliness  
   - Project quality  
   - Areas to improve  
-- 🧾 Simple web UI via Streamlit
-- 🔗 Works offline with Ollama + Mistral model
+- Simple web UI via Streamlit
+- Works offline with Ollama + Mistral model
 
 ---
 
